@@ -9,6 +9,8 @@ if you have git installed, use:
 if you don't, download the [zip file](https://github.com/maxtaran2010/PygameAnimation/archive/refs/heads/master.zip) and unzip it.
 
 #### Step 2: Install requirements
+enter the downloaded directory:
+` cd PygameAnimation `
 run this command in the project folder:
   ` python3 -m pip install -r requirements.txt `
 
