@@ -6,7 +6,7 @@ This lib allows you use your gif animation in pygame
 #### Step 1: Download Lib
 if you have git installed, use:
 `git clone https://github.com/maxtaran2010/PygameAnimation.git`
-if you don't, download the zip file and unzip it.
+if you don't, download the [zip file](https://github.com/maxtaran2010/PygameAnimation/archive/refs/heads/master.zip) and unzip it.
 
 #### Step 2: Install requirements
 run this command in the project folder:
